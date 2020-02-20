@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="293.34" height="476.19" viewBox="0 0 293.34 476.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34beea;
+        fill-rule: evenodd;
+        opacity: 0.2;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1626.66" y="2387.81" width="476.9" height="476.19" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="1626.66" y="2387.81" width="476.9" height="476.19" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDc2LjkiIGhlaWdodD0iNDc2LjE5IiB2aWV3Qm94PSIwIDAgNDc2LjkgNDc2LjE5Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjIzOC40NSIgeTE9IjQ3Ni4xOSIgeDI9IjIzOC40NSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjNjM2NWQ5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4yNSIgc3RvcC1jb2xvcj0iIzM0YmVlYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNDc2LjkiIGhlaWdodD0iNDc2LjE5Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M1853.99,2432.77l-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.25-23.93-21.06,21.11-23.89,23.93,21.06Zm57.12,50.26-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.25-23.93-21.06,21.11-23.89,23.93,21.06Zm-222.19-93.21-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.26-23.93-21.06,21.11-23.89,23.93,21.06Zm57.12,50.25-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.26-23.93-21.06,21.11-23.89,23.93,21.06Zm-222.19-93.21-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.26-23.93-21.06,21.11-23.9,23.93,21.06Zm57.12,50.25-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.26-23.93-21.06,21.11-23.89,23.93,21.05Zm-222.19-93.21-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.25-23.93-21.06,21.11-23.89,23.93,21.06Zm57.12,50.26-23.94-21.06,21.11-23.89,23.94,21.06Zm57.11,50.25-23.93-21.06,21.11-23.89,23.93,21.06Zm209.67-122.41-23.93-21.06,21.1-23.89,23.94,21.06Zm-50.85,57.55-23.93-21.05,21.1-23.9,23.94,21.06Zm-50.85,57.56-23.93-21.06,21.1-23.89,23.94,21.06Zm-50.85,57.56-23.94-21.06,21.11-23.89,23.94,21.06Zm-279.31-143.47-23.94-21.06,21.11-23.89,23.93,21.06Zm57.11,50.26-23.93-21.06,21.11-23.89,23.93,21.06Zm57.12,50.25-23.94-21.05,21.11-23.9,23.94,21.06Zm57.11,50.26L1798,2792.7l21.11-23.89,23.93,21.06Zm57.12,50.25-23.94-21.05,21.11-23.9,23.94,21.06Z" transform="translate(-1626.66 -2387.81)"/>
+</svg>
