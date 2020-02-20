@@ -79,7 +79,7 @@ body {
 }
 
 .container{
-	max-width: 980px;
+	max-width: 1100px;
 	padding: 0 15px;
 	margin: 0 auto;
 }
@@ -731,9 +731,9 @@ body {
 		.background-image {
 			width: 324px;
 		}
-		.intro{
-			padding: 30px 0;
-		}
+		.intro {
+			padding: 30px 0 75px;
+		}		
 		.intro-content {
 			width: 213px;
 			padding: 28px 0 0 0;
@@ -793,10 +793,10 @@ body {
 	}
 	@media (max-width: 375px){
 		.container {
-			max-width: 340px;
+			max-width: 327px;
 		}
 		.intro {
-			padding: 10px 0;
+			padding: 10px 0 75px;
 		}
 		.toggle {
 			font-size: 16px;
