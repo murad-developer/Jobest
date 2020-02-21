@@ -648,6 +648,18 @@ body {
 		font-size: 16px;
 	}
 }
+@media (max-width: 660px){
+	.background-image {
+		width: 590px;
+	}
+	.intro-content {
+		width: 273px;
+	}
+	.jobest-input {
+		width: 248px;
+		font-size: 16px;
+	}
+}
 @media (max-width: 640px){
 	.container{
 		width: 580px;
