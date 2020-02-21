@@ -499,9 +499,38 @@ body {
 		padding-top: 120px;
 	}
 }
+@media (max-width: 800px){
+	.container{
+		max-width: 740px;
+	}
+	.background-image{
+		width: 720px;
+	}
+	.intro-lead {
+		font-size: 27px;
+	}
+	.intro-text {
+		font-size: 14px;
+	}
+	.intro-content {
+		width: 310px;
+	}
+	.intro {
+		padding: 28px 0 284px 0;
+		background-image: none;
+	}
+	.shape {
+		left: 280px;
+		display: none;
+	}
+	.jobest-input {
+		width: 271px;
+		font-size: 17px;
+	}
+}
 @media (max-width: 768px){
 	.container{
-		max-width: 720px;
+		max-width: 688px;
 	}
 	.navmenu{
 		display: none;
@@ -539,36 +568,12 @@ body {
 		background-color: transparent;
 		color: #fff;
 	}
-	.intro {
-		padding: 28px 0 284px 0;
-		background-image: none;
-	}
 	.sign {
 		padding: 0; 
 		font-size: 30px;
 		font-weight: bold;
 		background-image: none; 
 		border-radius: 0; 
-	}
-	.intro-lead {
-		font-size: 27px;
-	}
-	.intro-text {
-		font-size: 14px;
-	}
-	.intro-content {
-		width: 310px;
-	}
-	.shape {
-		left: 280px;
-		display: none;
-	}
-	.jobest-input {
-		width: 271px;
-		font-size: 17px;
-	}
-	.background-image{
-		width: 720px;
 	}
 	.main__content {
 		width: 304px;
@@ -632,6 +637,15 @@ body {
 	}
 	.testimonials {
 		padding-bottom: 0; 
+	}
+}
+@media (max-width: 740px){
+	.intro-text {
+		font-size: 12px;
+	}
+	.jobest-input {
+		width: 248px;
+		font-size: 16px;
 	}
 }
 @media (max-width: 640px){
