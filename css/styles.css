@@ -485,7 +485,7 @@ body {
 	}
 	.footer {
 		padding: 370px 0 30px 0;
-		background-size: 1104px 880px;
+		background-size: 1104px 848px;
 	}
 	.main__lead {
 		font-size: 32px;
@@ -499,7 +499,7 @@ body {
 }
 @media (max-width: 800px){
 	.container{
-		max-width: 740px;
+		width: 740px;
 	}
 	.background-image{
 		width: 720px;
@@ -528,7 +528,7 @@ body {
 }
 @media (max-width: 768px){
 	.container{
-		max-width: 688px;
+		width: 688px;
 	}
 	.navmenu{
 		display: none;
@@ -617,7 +617,7 @@ body {
 	}
 	.footer {
 		padding: 340px 0 30px 0;
-		background-size: 1104px 856px;
+		background-size: 1104px 800px;
 	}
 	.companies__wrapper {
 		flex-wrap: wrap;
@@ -647,6 +647,9 @@ body {
 	}
 }
 @media (max-width: 660px){
+	.container {
+		width: 644px;
+	}
 	.background-image {
 		width: 590px;
 	}
@@ -660,7 +663,7 @@ body {
 }
 @media (max-width: 640px){
 	.container{
-		width: 580px;
+		width: 610px;
 	}
 	.background-image {
 		width: 600px;
@@ -679,7 +682,7 @@ body {
 }
 @media (max-width: 425px){
 	.container {
-		max-width: 375px;
+		width: 375px;
 	}
 	.toggle {
 		font-size: 20px;
@@ -747,12 +750,13 @@ body {
 		flex-wrap: wrap;
 	}
 	.footer {
-		background-size: 1104px 1206px;
+		background-size: 1104px 1136px;
+		padding: 375px 0 30px 0;
 	}
 }
 @media (max-width: 375px){
 	.container {
-		max-width: 327px;
+		width: 327px;
 	}
 	.intro {
 		padding: 10px 0 75px;
@@ -804,7 +808,7 @@ body {
 }
 @media (max-width: 320px){
 	.container {
-		max-width: 280px;
+		width: 280px;
 	}
 	.intro{
 		padding: 10px 0 70px 0;
@@ -850,5 +854,15 @@ body {
 	}
 	.testimonials__wrapper-title {
 		font-size: 20px;
+	}
+	.footer{
+		background-size: cover;
+	}
+	.footer__main {
+		justify-content: space-between;
+		text-align: center;
+	}
+	.footer__list{
+		margin: 0 auto;
 	}
 }
