@@ -204,7 +204,7 @@ body {
 }
 .main__img img{
 	width: 530px;
-	height: 600;
+	height: 600px;
 }
 .main__content{
 	width: 500px;
@@ -268,29 +268,32 @@ body {
 	flex-wrap: wrap;
 	padding: 0;
 }
-.categories__item{
+.categories__item {
 	width: 220px;
 	padding: 30px 25px 0;
 	margin: 30px 50px 80px;
 	border-radius: 20px;
 	box-shadow: 0px 20px 98.58px 7.42px rgba(33, 138, 218, 0.12);
-}
-.category__strong{
-	font-family: "Poppins-Bold";
 	color: #254c86;
-	line-height: 15px;
+	transition: all 0.3s ease-in-out;
 }
-.category__paragrph{
-	color: #1f3a63;
-	margin-bottom: 25px;
-}
-.category{
+.categories__item:hover {
 	background-color: #54a3f9;
 	box-shadow: 0px 24px 69.92px 6.08px rgba(90, 129, 253, 0.5);
+	color: #fff;
 }
-.other{
-	color: #ffffff;
+.categories__item:hover svg .cls-1{
+	fill: #fff;
 }
+
+.category__strong{
+	font-family: "Poppins-Bold";
+	line-height: 15px;
+}
+.category__paragrph {
+	margin-bottom: 25px;
+}
+
 .companies{
 	padding: 100px 0;
 }
@@ -370,7 +373,7 @@ body {
 .testimonials_img{
 	position: absolute;
 	top: -85px;
-	left: 87px;
+	left: 70px;
 }
 .footer{
 	padding: 480px 0 30px 0;
@@ -396,9 +399,11 @@ body {
 	font-size: 16px;
 	padding: 15px 20px;
 	border: none;
+	outline: 0;
+	margin-right: -3px;
 }
 .footer__button{
-	padding: 16px 30px;
+	padding: 15px 30px;
 	text-transform: uppercase;
 	color: #ffff;
 	font-weight: 300;
